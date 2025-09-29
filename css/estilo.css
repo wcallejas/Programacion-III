@@ -1,0 +1,52 @@
+/*Shift + Alt + F Prettier Code Formatter*/
+/*Punto 4*/
+
+.p4_nav{
+    background-color: pink;
+}
+
+.p4_nav ul {
+    display: inline-flex;
+}
+
+.p4_nav li {
+    padding: 10px;
+    list-style: none;
+}
+
+.p4_nav li:hover {
+    background-color: blue;
+}
+
+.p4_nav a {
+    color: white;
+}
+
+/*Punto 5*/
+.p5_table{
+    background-color: yellow;
+    border-top: 1px dotted;
+    border-bottom: 2px red dashed;
+    border-spacing: 0px;
+}
+
+.p5_table thead th {
+    color: brown;
+    font-style: italic;
+    text-transform: uppercase;
+    font-size: 12px;
+}
+
+.p5_table thead th::first-letter{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.p5_table td {
+    border: 1px dotted;
+}
+
+.p5_table tr {
+    padding: 0px;
+    margin: 0px;
+}

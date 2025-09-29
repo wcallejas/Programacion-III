@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url("https://shorturl.at/dhW7N");
+    /* background-image: url("/img/23690140_freepik_wang_18_02_2022_39.jpg"); */
+	background-size: cover;
+    background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+nav {
+    text-align: center;
+}
+
+ul {
+    padding: auto;
+}
+
+li {
+    text-decoration: none;
+}
+
+.li_elements {
+    background-color: blue;
+}
+
+h1 {
+    text-transform: uppercase;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    border-radius: 5px;
+    background-color:rgba(179, 179, 179, 0.575);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.centrado {
+    color: #0011ff;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+}
+
